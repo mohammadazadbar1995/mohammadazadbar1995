@@ -16,7 +16,7 @@ I am an experienced Android developer with a strong background in Java and Kotli
 
   <img align="right" alt="GIF" src="https://github.com/mohammadazadbar1995/mohammadazadbar1995/blob/main/code.gif?raw=true" width="400" height="220" />
   
-- 💼 any freelance work? do reach, [email](mailto:mohammadazadbar1373@gmail.com) :)
+- 💼 any freelance work? do reach, [email](mohammadazadbar1373@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
 
