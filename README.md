@@ -14,7 +14,7 @@
 I am an experienced Android developer with a strong background in Java and Kotlin programming,as well as expertise in Android SDK, Android Studio, andrelated tools. Skilled in developing and maintaining high-quality mobile applications that meet user needs and business goals, with a focus on performance, usability, and security. Proven ability to work collaboratively in cross-functional teams and to deliver projects on time and within budget. Passionate about staying up-to-date with the latest trends and best practices in Android development and continuously improving skills.
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/mohammadazadbar1995/mohammadazadbar1995/blob/main/code.gif?raw=true" width="400" height="220" />
   
 - 💼 any freelance work? do reach, [email](mailto:mohammadazadbar1373@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
