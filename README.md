@@ -7,7 +7,7 @@ I am an experienced Android developer with a strong background in Java and Kotli
   <img align="left" alt="Arash's Instagram" width="22px" src="https://raw.githubusercontent.com/arashaltafi/arashaltafi/main/instagram.png" style="max-width: 100%;">
 </a>
 <a href="https://twitter.com/M_Azadbar">
-  <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" alt="twitter" />
+  <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" alt="" />
 </a>
 <a href="https://www.linkedin.com/in/mohammadazadbar" rel="nofollow">
   <img align="left" alt="Arash's LinkedIN" width="22px" src="https://raw.githubusercontent.com/arashaltafi/arashaltafi/main/linkedin.png" style="max-width: 100%;">
