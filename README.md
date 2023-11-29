@@ -1,12 +1,15 @@
 ### hey there 
-<a href="https://www.instagram.com/mohammad_azadbar/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+<a href="https://www.instagram.com/mohammad_azadbar/" rel="nofollow">
+  <img align="left" alt="Arash's Instagram" width="22px" src="https://raw.githubusercontent.com/arashaltafi/arashaltafi/main/instagram.png" style="max-width: 100%;">
 </a>
 <a href="https://twitter.com/M_Azadbar">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/mohammadazadbar/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/mohammadazadbar" rel="nofollow">
+  <img align="left" alt="Arash's LinkedIN" width="22px" src="https://raw.githubusercontent.com/arashaltafi/arashaltafi/main/linkedin.png" style="max-width: 100%;">
+</a>
+<a href="https://t.me/a_mohammad95" rel="nofollow">
+  <img align="left" alt="Arash Altafi Telegram" width="22px" src="https://raw.githubusercontent.com/arashaltafi/arashaltafi/main/telegram.png" style="max-width: 100%;">
 </a>
 
 <br />
